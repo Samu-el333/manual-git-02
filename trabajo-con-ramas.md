@@ -1,4 +1,4 @@
-```python
+
 markdown_content = """# Investigación: Trabajo con ramas en GitHub
 
 ## 1. Introducción
@@ -233,13 +233,4 @@ El trabajo con ramas es fundamental para desarrollar proyectos de forma segura y
 *Fuentes: Documentación oficial de GitHub.*
 """
 
-with open("trabajo_con_ramas_github.md", "w", encoding="utf-8") as f:
-f.write(markdown_content)
 
-```
-
-Tu archivo Markdown sobre el trabajo con ramas en GitHub está listo.
-
-[file-tag: trabajo_con_ramas_github.md]
-
-```
