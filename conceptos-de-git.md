@@ -30,7 +30,7 @@ Las Tres Áreas de Trabajo
 - Push: Sube tus commits locales confirmados al servidor remoto para compartirlos con el resto del equipo.
 
 ## En Resumen ##
-Git es un sistema de de codigos para ayudar en pSeint versiones distribuido que rastrea el historial del código mediante cuatro pilares fundamentales:
+Git es un sistema de control de versiones distribuido que rastrea el historial del código mediante cuatro pilares fundamentales:
 
 - Flujo de trabajo en 3 capas: Modificas archivos locales en el Directorio de trabajo, seleccionas los cambios a incluir en el Staging Area (git add) y los guardas permanentemente en el Repositorio (git commit).
 
