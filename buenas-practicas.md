@@ -303,14 +303,3 @@ Un repositorio de investigación debe permitir relacionar la pregunta de investi
 Un buen repositorio de investigación debe permitir que otra persona pueda responder fácilmente: ¿Qué se investigó?, ¿qué datos se utilizaron?, ¿cómo fueron procesados?, ¿qué metodología se utilizó?, ¿qué código produjo los resultados?, ¿qué versión del código se utilizó?, ¿es posible reproducir el análisis?
 
 La finalidad no es solamente tener un repositorio ordenado, sino construir un proceso de investigación transparente, reproducible y trazable.
-"""
-
-with open("README_investigacion.md", "w", encoding="utf-8") as f:
-f.write(markdown_content)
-
-```
-
-
-He organizado el contenido con una jerarquía clara, utilizando tablas para facilitar la lectura y manteniendo el formato Markdown limpio y profesional, tal como solicitaste.
-
-```
