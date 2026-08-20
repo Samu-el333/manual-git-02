@@ -19,3 +19,12 @@ Las Tres Áreas de Trabajo
 - Rebase: Alternativa a la fusión que reaplica los commits de una rama sobre la punta de otra para mantener un historial lineal y limpio.
 
 - Checkout / Switch: Comandos utilizados para cambiar entre diferentes ramas o recuperar versiones antiguas del código.
+
+## Sincronización Remota ##
+- Remote: Copia del proyecto alojada en un servidor o plataforma en la nube (GitHub, GitLab, Bitbucket) para la colaboración en equipo.
+
+- Fetch: Descarga las novedades e historial del servidor remoto a tu equipo local sin modificar tu trabajo actual.
+
+- Pull: Descarga y fusiona inmediatamente los cambios del servidor remoto en tu rama local activa (equivale a ejecutar fetch seguido de merge).
+
+- Push: Sube tus commits locales confirmados al servidor remoto para compartirlos con el resto del equipo.
