@@ -28,3 +28,14 @@ Las Tres Áreas de Trabajo
 - Pull: Descarga y fusiona inmediatamente los cambios del servidor remoto en tu rama local activa (equivale a ejecutar fetch seguido de merge).
 
 - Push: Sube tus commits locales confirmados al servidor remoto para compartirlos con el resto del equipo.
+
+## En Resumen ##
+Git es un sistema de de codigos para ayudar en pSeint versiones distribuido que rastrea el historial del código mediante cuatro pilares fundamentales:
+
+- Flujo de trabajo en 3 capas: Modificas archivos locales en el Directorio de trabajo, seleccionas los cambios a incluir en el Staging Area (git add) y los guardas permanentemente en el Repositorio (git commit).
+
+- Commits: Instantáneas fidedignas del estado de tu proyecto en un momento determinado, registradas con un código identificador único (hash).
+
+- Ramas (Branches): Enrutamientos independientes que permiten desarrollar funciones o corregir errores en aislamiento. Se integran a la línea principal mediante Merge (fusión) o Rebase (reubicación de historial).
+
+- Sincronización remota: Trabajo colaborativo mediante un servidor central (GitHub/GitLab) utilizando Push para subir tus cambios, y Fetch o Pull para descargar las novedades del equipo.
