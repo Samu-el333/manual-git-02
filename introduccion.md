@@ -1,0 +1,3 @@
+## Introduccion a Github
+
+GitHub es una plataforma en la nube para alojar código y control de versiones usando Git. Permite guardar proyectos, registrar cambios y colaborar con otros desarrolladores en equipo de forma ordenada.Para dar tus primeros pasos y registrarte, puedes acceder directamente a la página oficial de GitHub.Conceptos ClavesRepositorio: Carpeta o espacio donde se guardan los archivos y el historial de un proyecto.Commit: Guardado o registro de los cambios hechos en el código.Branch (Rama): Copia del proyecto para trabajar en mejoras sin afectar la versión principal.Pull Request
